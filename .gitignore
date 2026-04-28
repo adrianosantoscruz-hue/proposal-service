@@ -1,0 +1,12 @@
+# Nunca subir para o GitHub
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+pytest-cache-files-mtuwqvm4/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
